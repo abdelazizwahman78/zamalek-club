@@ -1,0 +1,316 @@
+
+.img1{
+    height: 70px;width: 90px;
+}
+.p1{
+    display: inline; font-family: sans-serif;font-size: 17px;margin-left: -14px;
+}
+.d{
+    height: 700px;width: 100%;
+}
+.list1{
+    width: 400px;margin-top: 40px;border: 1px solid black;border-radius: 40px;
+}
+.img2{
+    margin-left: 60px; height: 60px;width: 75px;
+
+}
+.p2{
+        display: inline; font-family: sans-serif;font-size: 25px;margin-left: -5px;
+
+}
+.admin{
+    background-color:darkgray;margin-left: 90px;font-family: sans-serif;font-size: 22px;opacity: .9;border-radius: 4px;
+}
+.champions{
+        background-color:darkgray;margin-left: 90px;font-family: sans-serif;font-size: 22px;opacity: .9;border-radius: 4px;
+
+}
+.img3{
+    height: 150px;width: 270px;margin-left: 50px;
+}
+.clos{
+        background-color:darkgray;margin-left: 120px;font-family: sans-serif;font-size: 22px;opacity: .9;border-radius: 4px;
+
+}
+.img4{
+    height: 500px;width: 1100px;margin-top: -1080px;margin-left: 410px;border-radius: 8px;
+}
+.medil1{
+   height: 600px;margin-top: -570px;width: 1100px;margin-left: 410px;border-radius: 4px
+    
+}
+h1{
+    margin-left: 400px;
+}
+
+.first{
+    color: brown;
+}
+.farouk{
+    padding-top: -5px;padding-left: 20px
+}
+.medil2{
+    height: 1200px;margin-top: 20px;
+}
+.farouk2{
+        padding-top: 10px;padding-left: 20px;
+
+}
+.img5{
+    height: 300px;width: 550px;margin-left: 460px
+}
+.bar{
+    margin-left: 0px;background-color: #6c757d;
+}
+.list-group1{
+    width: 360px;margin-left: -20px;padding-top: 20px;
+}
+.list-group2{
+    width: 360px;margin-left: 310px;margin-top: -507px;
+}
+.list-group3{
+    width: 360px;margin-left: 640px;margin-top: -507px;
+}
+.prisent{
+    margin-left: 220px;margin-top: 20px;
+    
+}
+.place1{
+        width: 200px;text-align: center;margin-left: 80px;margin-top: 50px;
+
+}
+
+.players1{
+    width: 210px;text-align: center;margin-left: 275px;margin-top: -687px;
+}
+.place2{
+            width: 200px;text-align: center;margin-left: 540px;margin-top: -686.8px;
+
+    
+}
+.players2{
+        width: 210px;text-align: center;margin-left: 730px;margin-top: -687px;
+
+}
+.place3{
+                width: 200px;text-align: center;margin-left: 985px;margin-top: -686.8px;
+
+}
+.players3{
+            width: 210px;text-align: center;margin-left: 1180px;margin-top: -197px;
+
+}
+.form1{
+    display: none;
+}
+.place4{
+    width: 200px;text-align: center;margin-left: 540px;margin-top: 50px;
+}
+.players4{
+    width: 210px;text-align: center;margin-left: 735px;margin-top: -442px;
+}
+.form2{
+    display: none;
+}
+.sys{
+    
+    width: 350px;text-align: center;margin-left: 150px;
+}
+.sys2{
+        width: 350px;text-align: center;margin-left: 150px;
+
+}
+.sys3{
+    
+    width: 350px;text-align: center;margin-left: 650px;margin-top: -245px;
+}
+.sys4{
+        width: 350px;text-align: center;margin-left: 650px;
+
+}
+.form3{
+    margin-left: 200px;display: none;margin-top: 45px;
+        
+}
+
+
+.sc{
+    color: brown;
+}
+
+
+
+
+
+.footer1{
+    width: 100%;
+    height: 80px;
+    background-color: currentColor;
+    position: relative;
+    top: 540px;
+    display: flex;
+}
+.left_links{
+    text-decoration: none;
+    font-family: inherit;
+    font-size: 15px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    
+}
+.left_links a{
+    color: aliceblue;
+    transition: all .2s ease-in-out;
+    
+}
+.left_links a:hover{
+    color: firebrick;
+    text-decoration: none;
+}
+.right_links{
+    text-decoration: none;
+    font-family: inherit;
+    font-size: 15px;
+    position: absolute;
+    left: 125px;
+    top:15px;
+}
+.right_links a{
+    color: aliceblue;
+    transition: all .2s ease-in-out;
+    
+}
+.right_links a:hover{
+    color: firebrick;
+    text-decoration: none;
+}
+.middle{
+    text-align: center;
+    position: absolute;
+    left: 40%;
+}
+.middle:hover{
+    cursor: pointer;
+}
+.middle img{
+    width: 100px;
+    width: 100px;
+}
+.middle p{
+    display: inline-block;
+    color: aliceblue;
+    margin-left: -20px;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.contact{
+    background-color: #6dcd9a;
+    font-size: 17px;
+    width: 200px;
+    height: 40px;
+    font-family:monospace;
+    font-style:normal;
+    padding-left: 50px;
+    padding-top: 6px;
+    position: absolute;
+    left: 1119px;
+    color: aliceblue;
+    transition: all .3s ease-in-out;
+    letter-spacing: 1px;
+}
+.contact:hover{
+    color: #6dcd9a;
+    background-color:#212529;
+    text-decoration: none;
+}
+.face{
+    background-color: #3d5b94;
+    font-size: 17px;
+    width: 200px;
+    height: 40px;
+    font-family:monospace;
+    font-style:normal;
+    padding-left: 97px;
+    padding-top: 5px;
+    position: absolute;
+    left: 1319px;
+    color: aliceblue;
+    transition: all .3s ease-in-out;
+}
+.face:hover{
+    color: #3d5b94;
+    background-color:#212529;
+    text-decoration: none;
+}
+.t{
+    background-color: #3dacdd;
+    font-size: 17px;
+    width: 200px;
+    height: 40px;
+    font-family:monospace;
+    font-style:normal;
+    padding-left: 97px;
+    padding-top: 6px;
+    position: absolute;
+    left: 1119px;
+    top: 40px;
+    color: aliceblue;
+    transition: all .3s ease-in-out;
+    
+}
+.t:hover{
+    background-color: #212529;
+    color: #3dacdd;
+    text-decoration: none;
+}
+.in{
+    background-color: #1e83ae;
+    font-size: 17px;
+    width: 200px;
+    height: 40px;
+    font-family:monospace;
+    font-style:normal;
+    padding-left: 97px;
+    padding-top: 5px;
+    position: absolute;
+    left: 1319px;
+    top: 40px;
+    color: aliceblue;
+    transition: all .3s ease-in-out;
+}
+.in:hover{
+    background-color: #212529;
+    color: #1e83ae;
+    text-decoration: none;
+}
+
+.footer2{
+    width: 100%;
+    height: 30px;
+    background-color:darkslategray;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    text-align: center;
+    color: aliceblue;
+    letter-spacing: 2px;
+    font-size: 15px;
+    padding-top: 2px;
+    position: relative;
+    top: 540px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

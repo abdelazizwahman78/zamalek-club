@@ -1,0 +1,30 @@
+.body{
+    width: 550px; height: 550px; margin-left: 500px; position: relative; margin-top: 100px; margin-bottom: 50px; border-bottom-right-radius: 150px; border-top-left-radius: 150px;
+}
+.img{
+    position: absolute; top: 0px; left: 120px;
+}
+.oo{
+    position: absolute; top: 10px; left: 200px; color: aliceblue; font-weight: 600;
+}
+.lab1{
+    position: absolute; top: 120px; left: 50px; font-size: 20px; color: aliceblue; font-weight: 600;
+}
+.name{
+    position: absolute; top: 155px; left: 50px; font-size: 20px; width: 400px; border-radius: 7px; padding-left: 20px;
+}
+.lab2{
+    position: absolute; top: 230px; left: 50px; font-size: 20px; color: aliceblue; font-weight: 600;
+}
+.phone{
+    position: absolute; top: 265px; left: 50px; font-size: 20px; width: 400px; border-radius: 7px; padding-left: 20px;
+}
+.lab3{
+    position: absolute; top: 340px; left: 50px; font-size: 20px; color: aliceblue; font-weight: 600;
+}
+.id{
+    position: absolute; top: 375px; left: 50px; font-size: 20px; width: 400px; border-radius: 7px; padding-left: 20px;
+}
+.btn1{
+    position: absolute; bottom: 40px; margin-left: 200px; width: 150px; font-weight: 700; border-radius: 5px;
+}
